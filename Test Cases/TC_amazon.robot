@@ -21,3 +21,7 @@ TC3_ Go to mobile section and search android
 TC4_ Go to mobile section and search windows
     open browser and maximize
     go to mobile and search iphone on amazon
+
+TC5_ Go to mobile section and search blank
+    open browser and maximize
+    go to mobile and search iphone on amazon
