@@ -9,3 +9,7 @@ Resource  ../Resources/keywordsamazon.robot
 TC1_ Go to mobile section and search iphone
     open browser and maximize
     go to mobile and search iphone on amazon
+
+TC3_ Go to mobile section and search android
+    open browser and maximize
+    go to mobile and search iphone on amazon
